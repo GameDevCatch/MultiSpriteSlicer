@@ -88,7 +88,7 @@ public class SpriteBatchSlicer : EditorWindow
         }
     }
 
-    [MenuItem("Sprite Batch Slicer Slicer/Open Slicer")]
+    [MenuItem("Sprite Batch Slicer/Open Slicer")]
     static void OpenSlicer()
     {
         EditorWindow.GetWindow(typeof(SpriteBatchSlicer));
