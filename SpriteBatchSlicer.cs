@@ -32,7 +32,7 @@ public class SpriteBatchSlicer : EditorWindow
                 Slice();
                 
                 if (closeOnSlice)
-                    EditorWindow.GetWindow(typeof(SpriteSlicer)).Close();
+                    EditorWindow.GetWindow(typeof(SpriteBatchSlicer)).Close();
             }    
         } else
         {
@@ -91,7 +91,7 @@ public class SpriteBatchSlicer : EditorWindow
     [MenuItem("Sprite Batch Slicer Slicer/Open Slicer")]
     static void OpenSlicer()
     {
-        EditorWindow.GetWindow(typeof(SpriteSlicer));
+        EditorWindow.GetWindow(typeof(SpriteBatchSlicer));
     }
 
     /// <summary>
