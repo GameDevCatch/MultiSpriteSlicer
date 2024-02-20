@@ -1,4 +1,4 @@
-# Sprite-Batch-Slicer | (BETTER) Multi-Sprite Editor [Available Now!](https://assetstore.unity.com/packages/slug/246585)
+# Multi-Sprite Editor [Available Now!](https://assetstore.unity.com/packages/slug/246585)
 
 #SETUP
 
